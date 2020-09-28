@@ -1,6 +1,8 @@
 {
   "name": "ia_proyecto_final_ui",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "ionic1",
   "watchPatterns": [
     "scss/**/*",
